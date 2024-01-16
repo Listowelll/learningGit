@@ -8,3 +8,4 @@ Learning GIT
 It now includes steps for GitHub
 
 New change included
+I have added new changes I want to use as pull request
